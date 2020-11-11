@@ -1,4 +1,2 @@
 ﻿  Oware.cpp
-C:\Users\ASUS\source\repos\Oware\Oware\Oware.cpp(43,3): error C3861: 'distribute_seeds': identifier not found
-C:\Users\ASUS\source\repos\Oware\Oware\Oware.cpp(44,13): error C3861: 'apply_points': identifier not found
-C:\Users\ASUS\source\repos\Oware\Oware\Oware.cpp(110,2): error C2059: syntax error: '}'
+  Oware.vcxproj -> C:\Users\ASUS\source\repos\Oware\Debug\Oware.exe
